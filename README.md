@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Electronics & Telecommunications undergraduate focused on PCB design, hardware development, and robotics. Experienced in taking boards from schematic to production-ready Gerbers and BOMs, with hands-on work in DRC/DFM, power-plane strategy, thermal-aware routing, and bench bring-up/debug.<br><br>Works primarily with KiCad and follows a structured, manufacturable design workflow. Also works on robotics projects using embedded C, motor drivers, sensors, and ROS2-based tools/simulation. Repositories include version-controlled design files, fabrication-ready outputs, and clear documentation. Currently seeking a PCB Design / Hardware Engineering internship (Pune onsite / remote).
 
 
